@@ -7,9 +7,8 @@ This calculator have basic operations in addition calculate square root and powe
 
 ![Captura de tela 2021-08-11 165020](https://user-images.githubusercontent.com/79917420/129093853-2810a6f3-6db0-422a-8932-c252042c9d81.png)
 
-## Is separated into three parts
+## Is separated into three parts:
 
 * [calc_ui.py](https://github.com/Foca1/CalculatorPyQt5/blob/main/Calculator/calc_ui.py)
-
 * [calc_func.py](https://github.com/Foca1/CalculatorPyQt5/blob/main/Calculator/calc_func.py)
 * [main.py](https://github.com/Foca1/CalculatorPyQt5/blob/main/Calculator/main.py)
