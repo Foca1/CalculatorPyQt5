@@ -4,5 +4,7 @@ A calculator with a GUI using PyQt5.
 
 This calculator have basic operations in addition calculate square root and power(of 2)
 
-![Calculadora 11_08_2021 16_46_42](https://user-images.githubusercontent.com/79917420/129093403-49c60c57-3d13-4103-b107-e1e7538374c3.png)
 
+![Captura de tela 2021-08-11 165020](https://user-images.githubusercontent.com/79917420/129093853-2810a6f3-6db0-422a-8932-c252042c9d81.png)
+
+# Is separated into three parts
