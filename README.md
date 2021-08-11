@@ -11,5 +11,5 @@ This calculator have basic operations in addition calculate square root and powe
 
 * calc_ui.py
 
-![calc_func.py] (https://github.com/Foca1/CalculatorPyQt5/blob/main/Calculator/calc_func.py)
+[calc_func.py](https://github.com/Foca1/CalculatorPyQt5/blob/main/Calculator/calc_func.py)
 * main.py
